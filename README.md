@@ -1,6 +1,4 @@
 # awesome-free-hosting
-A list of free web hosting providers
-
 1. [InfinityFree](https://infinityfree.com/): InfinityFree offers 5 GB disk space and unlimited bandwidth, supporting PHP, MySQL, and more. It provides a website builder and free subdomains.
 2. [AwardSpace](https://www.awardspace.com/): AwardSpace offers a free web hosting plan with 1 GB disk space, 5 GB bandwidth, and the ability to host up to 4 websites.
 3. [Freehostia](https://freehostia.com/): Freehostia offers 250 MB disk space, 6 GB bandwidth, and FTP access.
