@@ -8,7 +8,7 @@
 - [**InfinityFree**](https://infinityfree.com/) — 5 GB disk space, *unlimited* bandwidth, supports PHP & MySQL, includes website builder and free subdomains. No ads.
 - [**AwardSpace**](https://www.awardspace.com/) — 1 GB disk, 5 GB bandwidth, host up to 4 websites, PHP/MySQL supported, includes 1 email account.
 - [**Freehostia**](https://freehostia.com/) — 250 MB disk, 6 GB monthly traffic, FTP access, PHP/MySQL, ad-free.
-- [**ByetHost**](https://byet.host/) — 5 GB disk, 100 GB bandwidth, FTP access, PHP/MySQL, free subdomains.
+- [**ByetHost**](https://byet.host/) — 5 GB disk, 100 GB bandwidth, FTP access, PHP/MySQL, free subdomains with NVMe Storage and 56 core CPUs.
 - [**GoogieHost**](https://googiehost.com/) — 1 GB disk, 100 GB bandwidth, MySQL database, cPanel, and a free subdomain.
 - [**x10Hosting**](https://x10hosting.com/) — 500 MB disk, “unlimited” bandwidth, PHP/MySQL, DirectAdmin access, cloud infrastructure.
 - [**FreeHostingNoAds**](https://www.freehostingnoads.net/) — 1 GB disk, 5 GB bandwidth, PHP/MySQL, **no ads**.
