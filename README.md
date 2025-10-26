@@ -17,9 +17,6 @@
 - [**InstaFree**](http://instafree.com/) — 10 GB disk, 100 GB bandwidth, cPanel, FTP accounts, PHP/MySQL.
 - [**ProFreeHost**](https://profreehost.com/) — Unlimited bandwidth & storage (fair use), PHP/MySQL, Softaculous installer.
 - [**FreeHosting.com**](https://www.freehosting.com/) — 10 GB disk, unlimited bandwidth, DirectAdmin control panel.
-- [**TinkerHost**](https://tinkerhost.net/) — 5 GB disk, unlimited bandwidth, VistaPanel control panel, PHP/MySQL.
-- [**Spookhost**](https://spookhost.xyz/) — 5 GB disk, unlimited bandwidth, VistaPanel control panel, PHP/MySQL.
-
 ---
 
 ## 🌐 Static Site Hosting
