@@ -17,6 +17,7 @@
 - [**InstaFree**](http://instafree.com/) — 10 GB disk, 100 GB bandwidth, cPanel, FTP accounts, PHP/MySQL.
 - [**ProFreeHost**](https://profreehost.com/) — Unlimited bandwidth & storage (fair use), PHP/MySQL, Softaculous installer.
 - [**FreeHosting.com**](https://www.freehosting.com/) — 10 GB disk, unlimited bandwidth, DirectAdmin control panel.
+- [**WebHostMost**](https://www.webhostmost.com/free-web-hosting) — 125 MB NVMe disk, *unlimited* bandwidth, supports PHP/Node.js/Python/Perl, MariaDB/PostgreSQL/MongoDB, includes DirectAdmin, free SSL, **no ads**, requires log in every 45 days.
 ---
 
 ## 🌐 Static Site Hosting
